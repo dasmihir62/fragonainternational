@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    position: relative;
+}
+.logo {
+    width: 200px;
+    height: 200px;
+    position:absolute;
+    left: 50%;
+}
